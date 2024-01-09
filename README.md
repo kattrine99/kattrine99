@@ -5,7 +5,9 @@
 - 🔭 I’m currently working on an Autobiography website
 - 🌱 I’m currently expanding my knowledge in Javascript and React
 - 📫 How to reach me: kattren990703@gmail.com
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kattrine99&layout=compact&theme=github_dark)
+
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kattrine99&layout=compact&theme=github_dark)
 
 
 
