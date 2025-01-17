@@ -5,7 +5,7 @@
 <ul>
     <li>🔭 Currently working on an Autobiography website</li>
     <li>🌱 Expanding my knowledge in Javascript and React </li>
-    <li>✨ Passionate about  coding💻, anime🍿,  movies🎬, basketball🏀, traveling🌴</li>
+    <li>✨ Passionate about  coding💻,  movies🎬, basketball🏀, traveling🌴</li>
 </ul>
 
 <p align="center">
