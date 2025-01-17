@@ -3,7 +3,7 @@
 </h1>
 <h2 align="center">I'm Frontend developer😉 </h2>
 <ul>
-    <li>🔭 Currently working on an Diploma project website </li>
+    <li>🔭 Currently working on a Diploma project website </li>
     <li>🌱 Expanding my knowledge in Javascript and React </li>
     <li>✨ Passionate about  coding💻,  movies🎬, basketball🏀, traveling🌴</li>
 </ul>
