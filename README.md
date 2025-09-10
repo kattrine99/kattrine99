@@ -1,17 +1,14 @@
 <h1 align="center">
     Hi there 👋, My name is Ekaterina Smirnova (Kate)
 </h1>
-<h2 align="center">I'm Frontend developer😉 </h2>
+<h2 align="center">I'm a Frontend developer😉 </h2>
 <ul>
     <li>🔭 Currently work in Coming soon company✨ </li>
     <li>🌱 Expanding my knowledge in Javascript and React </li>
-    <li>✨ Passionate about  coding💻,  movies🎬, basketball🏀, traveling🌴</li>
+    <li>✨ Passionate about  coding💻,  movies🎬, traveling🌴</li>
 </ul>
 
 <p align="center">
-   <!-- <a href="">
-        <img alt="Resume" src="https://img.shields.io/badge/-Resume-2f343f?style=flat&logo=read.cv&logoColor=white" />
-    </a> -->
     <a href="https://linkedin.com/in/ekaterina-smirnova-95a017192" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0084b1?style=flat&logo=linkedin&logoColor=white" />
     <a href="https://www.instagram.com/s_kathrine_/" target="_blank">
